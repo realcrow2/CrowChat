@@ -27,6 +27,10 @@ A comprehensive, feature-rich chat system for FiveM servers with Discord integra
 - **`/unlockchat`**: Unlock chat (Management only)
 - **`/clearchat`**: Clear everyone's chat (Staff Management only)
 
+<img width="564" height="563" alt="image" src="https://github.com/user-attachments/assets/2379c9c3-e3f4-409a-86f8-c506ec5288bf" /> <img width="603" height="599" alt="image" src="https://github.com/user-attachments/assets/d93fd7bf-5f83-40db-9d58-f9667415f2ec" />
+<img width="585" height="592" alt="image" src="https://github.com/user-attachments/assets/581ae4bd-1ff0-43a2-a466-51daaaf446cf" /> <img width="532" height="582" alt="image" src="https://github.com/user-attachments/assets/210b9b52-b621-412c-9d37-c3d4be41cddb" />
+
+
 ### Moderation & Security
 - **Word Blacklist**: Automatic filtering of inappropriate language
 - **Chat Cooldowns**: Prevents spam with configurable cooldowns
